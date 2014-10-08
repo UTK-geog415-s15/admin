@@ -1,0 +1,72 @@
+---
+title: "Syllabus"
+author: "Nicholas N. Nagle"
+date: "October 8, 2014"
+output: pdf_document
+---
+
+**Instructor:** Nicholas Nagle, Assistant Professor
+
+Office: BGB 307
+
+Office Hours:
+
+Email: nnagle@utk.edu
+
+**Course Information**
+
+**Lecture**
+
+Time: Tu/Th: 
+
+Location: BGB 101
+
+**Lab**
+
+Monday:
+
+Location: BGB 202
+
+**A note on office hours:**  I almost always receive unannounced walk-ins to my office, even if my door is closed.  So in addition to email, you may just knock and see if I’m available.  I will be in my office Tuesdays and Thursdays, and Friday afternoons this semester.  At other times, I will be at Oak Ridge National Laboratory and unavailable for office appointments.
+
+## Course Objectives
+
+This course if first and foremost about the science of data analysis in geography.  I have conceptual objectives for you: goals about how you should look at the world and data about the world, and I have technical objectives for you: techniques that you should be able to know about at the end of the course.
+
+**Conceptual Objectives**
+
+**Technical Objectives**
+
+## Textbooks
+**Required** Peter Rogerson, *Statistical Methods for Geographers*.  Sage Press. 2010.
+
+**Recommended**
+
+## Additional Information
+**No extra credit:**  As a policy of the Geography Department, extra work for credit is not allowed.
+
+**Campus Civility Statement**
+Civility is genuine respect and regard for others: politeness, consideration, tact, good manners, graciousness, cordiality, affability, amiability and courteousness. Civility enhances academic freedom and integrity, and is a prerequisite to the free exchange of ideas and knowledge in the learning community. Our community consists of students, faculty, staff, alumni, and campus visitors. Community members affect each other’s well-being and have a shared interest in creating and sustaining an environment where all community members and their points of view are valued and respected. Affirming the value of each member of the university community, the campus asks that all its members adhere to the principles of civility and community adopted by the campus: http://civility.utk.edu/.
+
+**Academic Integrity**
+“An essential feature of the University of Tennessee, Knoxville is a commitment to maintaining an atmosphere of intellectual integrity and academic honesty. As a student of the university, I pledge that I will neither knowingly give nor receive any inappropriate assistance in academic work, thus affirming my own personal commitment to honor and integrity.”
+
+Students are responsible for the information in Hilltopics http://dos.utk.edu/hilltopics/ regarding the policies and procedures about plagiarism and other forms of student misconduct.
+
+**Disabilities that Constrain Learning**
+“Any student who feels he or she may need an accommodation based on the impact of a disability should contact the Office of Disability Services (ODS) at 865-974-6087 in 2227 Dunford Hall to document their eligibility for services. ODS will work with students and faculty to coordinate reasonable accommodations for students with documented disabilities.”
+
+**YOUR ROLE IN IMPROVING TEACHING AND LEARNING THROUGH COURSE ASSESSMENT**
+At UT, it is our collective responsibility to improve the state of teaching and learning. During the semester, you may be requested to assess aspects of this course either during class or at the completion of the class. You are encouraged to respond to these various forms of assessment as a means of continuing to improve the quality of the UT learning experience.
+
+
+**KEY RESOURCES FOR STUDENTS:**
+
+- Undergraduate Catalogs: http://catalog.utk.edu (Listing of academic programs, courses, and policies)
+- Graduate Catalog: http://catalog.utk.edu/index.php?catoid=7/ 
+- Hilltopics: http://dos.utk.edu/hilltopics (Campus and academic policies, procedures and standards of conduct)
+- Course Timetable: https://bannerssb.utk.edu/kbanpr/bwckschd.p_disp_dyn_sched (Schedule of classes)
+- Academic Planning: http://www.utk.edu/advising (Advising resources, course requirements, and major guides)
+- Student Success Center: http://studentsuccess.utk.edu (Academic support resources)
+- Library: http://www.lib.utk.edu (Access to library resources, databases, course reserves, and services)
+- Career Services: http://career.utk.edu (Career counseling and resources; HIRE-A-VOL job search system)
