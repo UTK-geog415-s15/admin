@@ -1,7 +1,9 @@
 ---
-title: "Syllabus"
+title: "Quantitative Methods in Geography"
 author: "Nicholas N. Nagle"
 date: "October 8, 2014"
+header-includes:
+  \usepackage{tabu}
 output: pdf_document
 ---
 
@@ -9,7 +11,7 @@ output: pdf_document
 
 Office: BGB 307
 
-Office Hours:
+Office Hours: Thursday: 9-11
 
 Email: nnagle@utk.edu
 
@@ -17,30 +19,112 @@ Email: nnagle@utk.edu
 
 **Lecture**
 
-Time: Tu/Th: 
+Time: Tu/Th: 11:10-12:25
 
 Location: BGB 101
 
+Office Hours: Thursday: 9-11 AM
+
+**A note on office hours:**  I almost always receive unannounced walk-ins to my office, even if my door is closed.  So in addition to email, you may just knock and see if I’m available.  I will be in my office Mondays, Tuesdays and Thursdays this semester.  At other times, it is likely that I am at Oak Ridge National Laboratory and unavailable for office appointments.
+
 **Lab**
 
-Monday:
+Monday: 1:25-3:20 OR 3:35-5:30
 
 Location: BGB 202
 
-**A note on office hours:**  I almost always receive unannounced walk-ins to my office, even if my door is closed.  So in addition to email, you may just knock and see if I’m available.  I will be in my office Tuesdays and Thursdays, and Friday afternoons this semester.  At other times, I will be at Oak Ridge National Laboratory and unavailable for office appointments.
 
-## Course Objectives
+## Course Overview
+
+This is a course about data analysis in geography.  We will look at how models and data are used to learn about our world.
 
 This course if first and foremost about the science of data analysis in geography.  I have conceptual objectives for you: goals about how you should look at the world and data about the world, and I have technical objectives for you: techniques that you should be able to know about at the end of the course.
 
-**Conceptual Objectives**
+**Learning Outcomes**
+ - Students will understand the concepts of location and variability, and be able to choose appropriate graphics to communicate these.
+ - Students will be able to characterize hypothesis testing and how they are used in scientific investigations.
+ - Students will be able to describe the difference between correlation and regression, how to explain regression output, and be able to identify its limitations in specific applications.
+ - Students will be able to explain the complications to statistical analysis that are encountered by geographers.
 
-**Technical Objectives**
+**Guide to student success**
+Beyond the obvious (come to class prepared, having completed the reading for that segment and completed lab assigments), the most important tip is to constantly self-assess your understanding by asking "Why is this material important?"  If, at any point, for any topic, you are unable to answer this question, then you need to ask questions in class until you understand.
+
+**Methods of Instruction**
+This course has lecture and computer lab components.  The lecture component will occasionally include question and answering, discussion, and individual and group problem solving.  The computer lab will introduce students to the R statistical software and allow students to explore techniques.  Lab exercises will often be discussed in lecture.
+
 
 ## Textbooks
 **Required** Peter Rogerson, *Statistical Methods for Geographers*.  Sage Press. 2010.
 
-**Recommended**
+Additional readings will be assigned in class as needed.  
+
+## Required Computer Equipment
+You will need to bring to lab either:
+
+- Your own personal laptop computer (and power cord). I strongly urge you to install R on your personal computer at home, and to bring a laptop to lab if you have one.
+- Or a USB “thumb” drive. I recommend a 4GB or larger USB drive.
+
+
+## Grading
+ - Lab assignments/Homework: 50%  Homework will be assigned during the lab sections.  Homework assignments are usually due one week after being assigned, however, some may have extended due dates.
+ - Midterm exam:  25%
+ - Final exam: 25%
+
+## Participation and Attendance
+Participation means *participation*, not simply being present.
+
+This class goes a lot more smoothly when students take some control of it, by asking questions about the material and about other quantitative work they have seen elsewhere.  
+
+I will not grade attendance.  I believe that it is a prerequisite of an acceptable grade.  If you fail to show up for class, I will likely\ *impute* that to a lack of concern about your grade, and I will be less likely to give you the benefit of the doubt should you need it.
+
+## Grading Scale
+
+Undergraduate | Graduate
+--------------| -------------
+A 93  | Content
+A- 90 |  { }
+
+
+## Weekly Schedule
+
+\begin{tabular}{l c c c}
+\hline \hline
+$i=$ & Date & Topic & Rogerson\\ \hline
+1 & Jan 8 & Introduction  \\ \hline
+2 & Jan 13 & Fundamentals: Sample/Population \& Statistic/Parameter  & 2\\
+ & Jan 15 & Distributions & 3\&4\\ \hline
+3 & Jan 19 - MLK No lab &  \\
+ & Jan 20 & & \\
+ & Jan 22 & \\ \hline
+4 & Jan 27 & Models \& Estimation& \\
+ & Jan 29 & \\ \hline
+5 & Feb 3 &  \\
+ & Feb 5 & \\ \hline
+6 & Feb 10 & Correlation \& Bivariate Regression & 7.1, 7.2, 7.6; 8\\
+ & Feb 12 & \\ \hline
+7 & Feb 17 & Hypothesis Testing & 5\\
+ & Feb 19 & \\ \hline
+8 & Feb 24 & Nonparametrics & 7.5\\
+ & Feb 26 & Mid-term \\ \hline
+9 & Mar 3 & Multivariate Regression \& ANOVA & 6.1, 6.2; 9.1-9.5 \\
+ & Mar 5 & \\ \hline
+10 & Mar 10 & Multivariate Regression: Confounding \\
+ & Mar 12 & \\ \hline
+11 & Mar 24 & Regression: Assumptions and Diagnostics 8.4\\
+ & Mar 26 & \\ \hline
+12 & Mar 31 & Nonlinear Regression \& Supervised classification & 9.6-9.8\\
+ & Apr 2 &  \\ \hline
+13 & Apr 7 & Intro to Spatial Statistics & 10 \& 11 \\
+ & Apr 9 & \\ \hline
+14 & Apr 14 & Intro to Time Series \\
+ & Apr 16 & \\ \hline
+15 & Apr 21 & AAG \\
+ & Apr 23 & \\ \hline
+N & & Finals!  \\ \hline \hline
+\end{tabular}
+
+
+
 
 ## Additional Information
 **No extra credit:**  As a policy of the Geography Department, extra work for credit is not allowed.
